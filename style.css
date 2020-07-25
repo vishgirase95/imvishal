@@ -1,0 +1,221 @@
+
+
+
+body{
+	margin: 0;
+    text-align: center;
+    
+
+
+}
+.vishal{
+		 
+		 font-family: 'Sacramento', cursive;
+	font-size: 4rem;
+
+
+}
+h1{
+	margin: 0px;
+	color: #66BFBF;
+	margin: 15px auto 0px auto;
+	font-size: 2rem;
+	top: 50px;
+	position: relative;
+}
+
+.intro{
+	margin: 100px auto 100px auto;
+}
+
+
+.text{
+	margin: 15px auto 0px auto;
+
+	position: relative;
+	top: 50px;
+	color: #66BFBF;
+		 /*font-family: 'Sacramento', cursive;*/
+}
+
+
+.top-container{
+	background-color: #EAF6F6;
+	padding: 100px;
+}
+
+
+
+p{
+	margin: 0px auto 0px auto;
+
+	font-weight: normal;
+
+	
+}
+.para{
+	width: 30%
+
+}
+.bottom-cloud{
+	position:absolute;
+	left:20%;
+	top: 40%;
+}
+
+
+.big-cloud{
+	position: relative;
+	top:70px;
+	width: 40%
+
+
+}
+.top-cloud{
+	position: absolute;
+	right: 20%;
+	top:10%;
+}
+
+
+.pro{
+	text-decoration: underline;
+}
+
+
+
+
+hr{
+	margin: 80px auto 80px auto;
+	text-align: center;
+	width: 5%;
+	border-top: 8px dotted #e3dfc8;
+	border-bottom: 0px;
+	border-left: 0px
+}
+.skill-row{
+	width: 50%;
+	line-height: 1.5rem;
+	
+	margin: 150px auto 150px auto;
+	text-align: left;
+	
+}
+.round{
+	width: 25%;
+
+	
+	border-radius: 100%;
+
+	
+}
+
+.web{
+	float: left;
+	margin-right: 35px;
+
+
+}
+.python{
+	float: right;
+	margin-left: 35px;
+
+
+}
+h3{
+	/*font-family: 'Sacramento', cursive;*/
+      color: #11999E ;
+}
+.replace{
+	font-family: 'Roboto', sans-serif;
+	
+      color: #11999E ;
+      margin: 10px auto 40px auto;
+      font-size: 2rem;
+
+}
+h4{
+	/*font-family: 'Sacramento', cursive;*/
+      color: #11999E ;
+
+}
+
+
+a{
+	text-decoration: none;
+}
+
+
+h2{
+	color: #66BFBF;
+}
+
+
+button{
+	
+    
+    background: linear-gradient(to top, #2bb2bb 50%, #3399ff 100%);
+	border-radius: 8px;
+	border-style: none;
+	font-size: 16px;
+	color: white;
+    padding: 10px;
+
+
+}
+button:hover{
+	
+    
+       background: linear-gradient(to top, #6699ff 0%, #3333cc 100%);
+	border-radius: 8px;
+	border-style: none;
+	font-size: 16px;
+	color: white;
+    padding: 10px;
+
+
+}
+.standard{
+	font-family: 'Roboto', sans-serif;
+
+}
+.end{
+
+	background-color: #66BFBF;
+	height: 150px;
+	margin-top: 100px;
+}
+
+footer{
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 70px;
+	font-size:12px;
+}
+
+.end-mid{
+	
+	position: relative;
+	top: 30px;
+	font-size: 20px;
+	font-style: bold;
+	color: #3282b8;
+	opacity: 70%;
+
+}
+
+
+a{
+	padding: 5px;
+	color: #3282b8;
+
+}
+
+.if{
+	margin-bottom: 20px;
+}
+
+a:hover{
+	color:#ebecf1;
+}
